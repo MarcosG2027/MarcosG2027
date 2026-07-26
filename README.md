@@ -52,7 +52,7 @@
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Visit Majix](https://img.shields.io/badge/Visit_Majix-121212?style=for-the-badge&logo=google-chrome&logoColor=white)](https://majix.app)
+[![Visit Majix](https://img.shields.io/badge/Visit_Majix-121212?style=for-the-badge&logo=google-chrome&logoColor=white)](https://majixlab.com)
 ![Logo](https://i.imgur.com/RxzWZNU.png)
 ## Support
 
