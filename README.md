@@ -51,7 +51,7 @@
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-garcía-0a369941b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Visit Majix](https://img.shields.io/badge/Visit_Majix-121212?style=for-the-badge&logo=google-chrome&logoColor=white)](https://majixlab.com)
 ![Logo](https://i.imgur.com/RxzWZNU.png)
 ## Support
