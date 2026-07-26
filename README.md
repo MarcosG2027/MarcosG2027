@@ -53,7 +53,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Visit Majix](https://img.shields.io/badge/Visit_Majix-121212?style=for-the-badge&logo=google-chrome&logoColor=white)](https://majix.app)
-![Logo](https://i.imgur.com/wAMKafN.png)
+![Logo](https://i.imgur.com/RxzWZNU.png)
 ## Support
 
 For support, email contact@majixlab.com or join ***[Majix web](https://majixlab.com)***.
